@@ -1,0 +1,21 @@
+.first {
+  border: green 10px dashed;
+  font-size: 18px;
+}
+
+.second {
+  border: black 2px dotted;
+  font-size: 18px;
+}
+
+.third {
+  border: gray 20px inset;
+  font-size: 30px;
+}
+
+.fourth {
+  border: yellow 10px solid;
+  border-style: solid;
+  width: 600px;
+}
+/*# sourceMappingURL=page2.css.map */

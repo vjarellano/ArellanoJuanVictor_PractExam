@@ -1,0 +1,23 @@
+$primaryFontSize: 18px;
+
+.first{
+    border: green 10px dashed;
+    font-size: $primaryFontSize;
+
+}
+.second{
+    border: black 2px dotted;
+    font-size: $primaryFontSize;
+
+}
+    
+.third{
+    border: gray 20px inset;
+    font-size: 30px;
+}
+.fourth{
+    border: yellow 10px solid;
+    border-style: solid;
+    width: 600px;
+
+}
