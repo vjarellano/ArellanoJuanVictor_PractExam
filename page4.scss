@@ -1,0 +1,28 @@
+$font-weight:lighter;
+$border:2px;
+$font-size:20px;
+$padding-left:0.5%;
+
+.first{
+    font-weight: $font-weight;
+    border: $border;
+    border-style: solid;
+    border-color: red;
+    padding-left: $padding-left;
+
+
+}
+.second{
+    font-weight: $font-weight;
+    background-color: rgb(255, 192, 221);
+    padding-left: $padding-left;
+    color: black;
+
+
+}
+.third{
+    font-weight:$font-weight ;
+    padding-left: $padding-left;
+    color: red;
+    
+}

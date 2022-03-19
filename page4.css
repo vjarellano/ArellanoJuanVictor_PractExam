@@ -1,0 +1,21 @@
+.first {
+  font-weight: lighter;
+  border: 2px;
+  border-style: solid;
+  border-color: red;
+  padding-left: 0.5%;
+}
+
+.second {
+  font-weight: lighter;
+  background-color: #ffc0dd;
+  padding-left: 0.5%;
+  color: black;
+}
+
+.third {
+  font-weight: lighter;
+  padding-left: 0.5%;
+  color: red;
+}
+/*# sourceMappingURL=page4.css.map */
